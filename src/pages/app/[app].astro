@@ -1,0 +1,11 @@
+---
+import appData from '../../apps.json';
+
+export async function getStaticPaths() {
+    return appData.apps.map(app => ({ params: { app: app.id } }));
+}
+
+const {app} = Astro.request.params;
+---
+
+<html></html>
