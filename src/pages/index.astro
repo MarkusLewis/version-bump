@@ -1,0 +1,20 @@
+---
+import { AppGrid } from '../components/AppGrid';
+import appData from '../apps.json';
+
+---
+
+<html>
+    <head>
+        <title>VersionBump | Interesting apps from around the internet</title>
+        <link rel="stylesheet" href="/style/app-tile.css">
+    </head>
+    <body>
+        <header class="header">
+            <img src="/assets/logo.svg" alt="The Version Bump">
+        </header>
+        <main>
+            <AppGrid {...appData} />
+        </main>
+    </body>
+</html>

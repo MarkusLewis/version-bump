@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="409px" height="23px" viewBox="0 0 409 23" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Window Tile</title>
+    <g id="Window-Tile" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Toolbar">
+            <rect id="Rectangle" stroke="#000000" x="0.5" y="0.5" width="408" height="22"></rect>
+            <g id="Close" transform="translate(5.000000, 8.000000)">
+                <circle id="Oval" fill="#F4A5A5" cx="4" cy="5" r="3"></circle>
+                <circle id="Oval" stroke="#000000" cx="3.5" cy="3.5" r="3"></circle>
+            </g>
+            <g id="Minimize" transform="translate(14.000000, 8.000000)">
+                <circle id="Oval-Copy-3" fill="#F4DCA5" cx="4" cy="5" r="3"></circle>
+                <circle id="Oval-Copy" stroke="#000000" cx="3.5" cy="3.5" r="3"></circle>
+            </g>
+            <g id="Maximize" transform="translate(23.000000, 8.000000)">
+                <circle id="Oval-Copy-4" fill="#BFF2B5" cx="4" cy="5" r="3"></circle>
+                <circle id="Oval-Copy-2" stroke="#000000" cx="3.5" cy="3.5" r="3"></circle>
+            </g>
+        </g>
+    </g>
+</svg>

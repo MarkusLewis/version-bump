@@ -1,0 +1,15 @@
+{
+    "apps": [{
+        "id": "abs",
+        "name": "ABS",
+        "description": "Shell Programming Language",
+        "colour": "red",
+        "url": "https://www.abs-lang.org"
+    }, {
+        "id": "retool",
+        "name": "Retool",
+        "description": "Internal Tool Builder",
+        "colour": "blue",
+        "url": "https://retool.com"
+    }]
+}
